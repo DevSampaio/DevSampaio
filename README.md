@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 👋 Olá! Eu sou desenvolvedor Full Stack
+# 👋 Olá! Eu sou João Sampaio desenvolvedor Full Stack
 
 ### 💻 Transformando ideias em soluções através do código
 
